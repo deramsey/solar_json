@@ -1,425 +1,424 @@
 {
-    "standards":[
-        {
-            "id": "1.1.a",
-            "standard": "The narrative/video explains how to navigate the course, emphasizing the Begin Here module. EVA instructions are clear and evident with an established due date.",
-            "essential": true,
-            "points": "1",
-            "annotation": "The welcome announcement and video posted at the beginning of the course explains how to navigate the course. Students are shown the course layout and how to work through modules and links. This should be considered as a 'tour' of your course. The EVA should be highlighted. Students should be directed to complete this task first. The EVA should have prominence in your course so that students know this task is very important and should be completed as soon as they log in. The due date, which should be aligned with the course’s census date, should be evident to the students. NOTE that if you do not hide/close the module where the EVA is located, the EVA task should be made 'unavailable' once the census date has passed. Should instructors incorporate some of this information (navigating the course) in the BEGIN HERE module or elsewhere in the course. In this case, students should be directed to the appropriate location in the course."
-        },
-        {
-            "id": "1.1.b",
-            "standard": "The narrative/video introduces the students to the course and an overview of what will be taught/learned.",
-            "essential": true,
-            "points": "1",
-            "annotation": "Students should be aware of what the course is about and an overview of tasks, assignments, etc.. This is more than just simply reading the course description. It also includes the types of assignments students are expected to engage in, primary topics/units of study, and if the course is a foundational course, prerequisite, corequisite, or Part II of a course, this information should be highlighted as well."
-        },
-        {
-            "id": "1.1.c",
-            "standard": "The narrative/video includes a personal welcome by the instructor where he/she introduces self.",
-            "essential": true,
-            "points": "1",
-            "annotation": "The instructor should set a welcoming and personal tone by introducing him/herself to the course. Sharing personal information about work history, education history, interests, hobbies, etc.. should also be included. Visual aids can be included with the video/narrative in order to add creativity to the welcome. This welcome can set a positive tone for the students and the course."
-        },
-        {
-            "id": "1.2.a",
-            "standard": "All links on the course menu template are in the correct order. There are no menu link deletions or substitutions. No more than three additional menu links have been added (under the Blackboard help divider line).",
-            "essential": true,
-            "points": "1",
-            "annotation": "All course links should follow the current menu template layout. This ensures consistency and predictability for students enrolled in online coursework. Menu links should be titled/labeled with the recommended language- there should be no substitutions for the menu links’ titles. In addition, the instructor does NOT include more than 3 personalized/additional links. These additional links are located below the divider line, after 'Blackboard Help.'"
-        },
-        {
-            "id": "1.2.b",
-            "standard": "Content links are active, labeled with descriptive text, and open in a new window.",
-            "essential": true,
-            "points": "1",
-            "annotation": "All content links are active. This means that when students click on these an error message does not appear and or the link is not broken and content is available. In addition, the link should be labeled with descriptive text-allowing the student to know what the link contains. All links should open in a new window-outside Blackboard. This allows students to be taken directly to the content."
-        },
-        {
-            "id": "1.2.c",
-            "standard": "Content links, videos, and resources contain descriptions of the purpose, relevance to the course, and required student action.",
-            "essential": true,
-            "points": "1",
-            "annotation": "Along with containing descriptive text of what the link contains, each link, video and course resource should contain a statement explaining the purpose/relevance to the course as well as the required student action. For example, if the instructor has created an instructional video about the Declaration of Independence, the following may be included: 'Please view the following instructional video about the Declaration of Independence.' This video explains the birth of this document and why it was necessary. This video will support your understanding of this module’s topics. Information in this video will aid you in completing the module’s discussion board and will be assessed in the chapter 3 quiz."
-        },
-        {
-            "id": "1.3.a",
-            "standard": "Modules are organized using a consistent and logical layout: introductory video/narrative providing an overview of the module, outlined SLOs and module objectives, instructional content/resources/activities, and assignments/assessments.",
-            "essential": false,
-            "points": "3",
-            "annotation": "Each module should be organized in the following manner: Introductory video/narrative that contains an overview of the Module (what will be taught/learned, resources, materials, assessments, etc…), Course SLOs and Module Objectives, Instructional Resources  and Activities (Instructor created videos, reading assignments, content links, resources, study guides, interactive games and any non-graded activities), Assignments and Assessments."
-        },
-        {
-            "id": "1.4.a",
-            "standard": "Course provides clearly defined norms, expectations, and netiquette guidelines.",
-            "essential": false,
-            "points": "1",
-            "annotation": "Defined course norms (expectations, rules, etc…) for attendance, late work, participation, appreciation of diverse opinions, etc… should be clearly defined. Expectations for netiquette (how students interact via email, social media, discussion boards, blogs, and all other electronic means of communication) should be clearly posted in the course and syllabi."
-        },
-        {
-            "id": "1.4.b",
-            "standard": "Prerequisite information and/or required competencies in the subject area are provided.",
-            "essential": false,
-            "points": "1",
-            "annotation": "Prerequisite skills, knowledge, and courses should be listed. If a course does not require a prerequisite or corequisite course, this should be noted. Skills that a student should have that will enable success in the course should be listed. Example: Students should be able to work independently, have good time management skills, be able to read and comprehend texts and material, write legibly and in complete, coherent sentences. These skills will contribute to the students’ success in this course. This information should be located below the course description."
-        },
-        {
-            "id": "1.4.c",
-            "standard": "Required computer and digital information literacy skills are provided.",
-            "essential": false,
-            "points": "1",
-            "annotation": "Instructors should include the computer and digital literacy skills required for success in the course. Refer to the list that is provided by eLearning. For online courses, skills should include (but not limited to): ability to navigate the Learning Management System (Bb), complete assignments, tasks, respond to emails, complete discussion boards and other forms of communication, know how to correctly log on and off in Bb and Outlook, utilize Student AVISO, communicate with others professionally, correctly utilize Microsoft Office, participate in virtual learning platforms (Microsoft TEAMS, Zoom, etc…). For web assisted and traditional courses, this list may need to be modified."
-        },
-        {
-            "id": "2.1.a",
-            "standard": "The instructor has verified the course description with the NCCCS (North Carolina Community College System) Combined Course Library. Policies stated in the syllabus are consistent with the course configuration, design, and content in the LMS.",
-            "essential": false,
-            "points": "2",
-            "annotation": "It is important that the instructor have the most current version of the course description and information relating to the course, as outlined by the NCCCS, listed on the syllabus. The instructor should visit the NCCCS website and access the combined course library, searching for the course, noting course description and details about the course ( credit/contact hours, pre and co requisites, transfer information, etc…). This same information should be consistent with what is contained in the LMS regarding the course. If no pre/co requisites are required for the course, a statement regarding this should be included: “No Pre/Co requisite courses are required for this course.”"
-        },
-        {
-            "id": "2.2.a",
-            "standard": "SLOs are listed in the course syllabus. There are an appropriate number of SLOs for the course content.",
-            "essential": true,
-            "points": "1",
-            "annotation": "It is important that SLOs reflect an overview of material that should be learned in the course. Noting that some courses cover a great deal of content while others do not, the number of SLOs should reflect this. Generally, there should be no fewer than 3 (three) SLOs and no more than 5 (five). If the instructor feels there should be more SLOs, reach out to eLearning for additional support."
-        },
-        {
-            "id": "2.2.b",
-            "standard": "SLOs are broad, align with the course description, and include critical thinking skills.",
-            "essential": true,
-            "points": "1",
-            "annotation": "SLOs are not written with language that is specific to assignments  (ex: The student will write, the student will build, the student will answer,etc..) Rather, they are broadly written, to allow multiple objectives to be aligned to a specific SLO. Example, when a student “analyzes” content, this suggests that the student is engaging in more than one activity, assignment, test, project, etc.. for analysis to take place. SLOs should be written with broader/critical thinking skills."
-        },
-        {
-            "id": "2.2.c",
-            "standard": "At least one SLO is identified/listed in each module.",
-            "essential": true,
-            "points": "1",
-            "annotation": "At least one of the SLOs written is listed in a Module. Note that if a module contains multiple weeks, chapters, units, etc.. multiple SLOs may be needed in order to cover all learning processes that are taking place and align with content presented. NOTE that the modules listed on the syllabus must be the same SLOs contained in the course/learning  modules."
-        },
-        {
-            "id": "2.3.a",
-            "standard": "Module objectives are aligned to identified course SLO(s).",
-            "essential": false,
-            "points": "2",
-            "annotation": "A clear alignment/relationship between SLOs and objectives should exist. If an SLO asks the learner to analyze the events of World War II, an objective asking students to discuss the causes of  the Revolutionary War is not directly aligned to the SLO."
-        },
-        {
-            "id": "2.3.b",
-            "standard": "Module objectives are written with measurable, observable, verbs.",
-            "essential": false,
-            "points": "2",
-            "annotation": "Objectives should be written with direct language (verbs) that connect to graded assignments, activities, etc… Objectives should be concise and DIRECTLY related to what is being measured. The learner should know what the assignment will be when the objective is correctly aligned. The objective is NOT broadly written as the SLO. Example: The student will discuss, write, compose, explain, build, create, design, compute, implement, research, review,  identify, name,  record, produce, compare, contrast, list, etc…"
-        },
-        {
-            "id": "2.4.a",
-            "standard": "Tasks, videos, links, and other module resources scaffold in a logical manner to promote understanding and attainment of concepts.",
-            "essential": false,
-            "points": "2",
-            "annotation": "Activities should promote attainment of concepts and skills. All activities, tasks, material, and resources should build on each other, promoting learning. The Module Overview video should be present first, with SLOs and Objectives included. Tasks and activities that students are expected to engage in should be listed in the order they should be completed. This includes instructor created videos that facilitate learning and other media that supports learning of skills and content. Resources, material, and content that introduces a concept/skill should be accessed by students first and other topics that relate to the concept/skill should follow. Students should know how to navigate each module, where to begin, what to access first, next, last, and what assignments/assessments to complete."
-        },
-        {
-            "id": "2.4.b",
-            "standard": "Interaction between instructor and learners and among learners is evident.",
-            "essential": false,
-            "points": "2",
-            "annotation": "Interaction is active and should be included in each module and in the course. There should be opportunities for the instructor to interact (live interaction) during each Module/Unit of Study. This can be done via Zoom/TEAMS meetings and/or other virtual meeting platforms. The instructor can also meet with students through a messaging system such as Bb IM, TEAMS, Email when the student has questions, concerns, and/or need support from the instructor. Interaction among learners can occur in virtual meetings as well as Discussion Boards, Blogs, group projects/assignments, TEAMS’ channel, etc."
-        },
-        {
-            "id": "2.4.c",
-            "standard": "There is evidence of instructor presence/interaction where teaching occurs. (For online courses, the instructor teaches/facilitates module content to resemble instruction in the seated environment).",
-            "essential": false,
-            "points": "2",
-            "annotation": "It is important that online students receive equitable learning experiences that model what the traditional/seated student would receive. The instructor should provide evidence of teaching in each Module/Unit of Study. This can best be met through the creation of an instructional video. Again, content should be TAUGHT. Reading through a powerpoint will not satisfy this item. Again, this instruction should be reflective of the instruction that would take place in the seated environment noting that student reaction/interaction would not be evident but anticipated. If the instructor chooses to video a live, seated class where the same content is being taught, it is important that the instructor consider video and audio quality.  In addition, noting that students who may be visible will need to give permission to be recorded."
-        },
-        {
-            "id": "2.4.d",
-            "standard": "All module activities and resources support instruction and assessment.",
-            "essential": false,
-            "points": "2",
-            "annotation": "All activities and tasks that are included in each Module/Unit of Study should support learning and assessment. Including information that is not relevant to the subject matter, skill, concept, etc.. should not be included. This causes confusion for the student and requires the student to access material that may not be relevant for that particular topic/skill/concept. It is important that the instructor consider quality of support, media, materials, and resources instead of quantity."
-        },
-        {
-            "id": "2.5.a",
-            "standard": "Students are provided clear directions that support understanding of module expectations. Assessments and tasks are driven by the course description and not a particular resource.",
-            "essential": false,
-            "points": "2",
-            "annotation": "Students should know exactly what to do in each module. They should know what they will learn and do. It should be clear what activities are present in the course and why. Students should be given clear directions explaining how each activity supports an assessment/assignment and in what order these should occur. All resources, material, activities, and assignments should be aligned with the COURSE DESCRIPTION and not a textbook, manual, third party resource, or other material. (Note if using a textbook, it is important that instructors teach the skills that are outlined in the course description and not the table of contents. This may require the instructor to omit some chapters/material or find additional resources to cover concepts that may not be included in a particular text/resource."
-        },
-        {
-            "id": "2.5.b",
-            "standard": "Tools utilized are appropriate and support interaction and collaboration.",
-            "essential": false,
-            "points": "2",
-            "annotation": "Tools the instructor chooses to implement and utilize in the course should have a purpose. Tools should provide opportunities for interaction among students and the instructor as well as students and other students. The tools should also support collaboration among all members of the class.  Consider tools that are available within the LMS as well as tools available to instructors that may not be contained in the LMS. Tools that are not traditionally utilized should be approved by eLearning."
-        },
-        {
-            "id": "2.5.c",
-            "standard": "Where appropriate/available, Open Educational Resources, free, or low-cost materials are used.",
-            "essential": false,
-            "points": "2",
-            "annotation": "To implement the most current research related to the course and content, it is best that OER or Free, low-cost materials be utilized. This practice gives the instructor much more autonomy and supports the instructor as the instructional and content expert. In addition, providing material in this manner supports students through reducing financial obligations related to textbooks, manuals, and other materials. The use of 3rd party resources should not be used if at all possible. ELearning will support instructors in finding and implementing OER, Free, and Low-Cost materials."
-        },
-        {
-            "id": "2.5.d",
-            "standard": "The instructor teaches content in a logical, sequential manner where students are asked to move from simple to complex forms of learning. Module content and assessments are appropriate for the course level.",
-            "essential": false,
-            "points": "2",
-            "annotation": "The instructor should teach in a manner where students are asked to move from simple to more complex forms of learning and achievement. For example, students should not be asked to create a research paper until they have been taught and assessed regarding their knowledge regarding how to conduct meaningful research related to your topic, identify key elements of the topic, discuss possible research topics, demonstrate proper citation that may be required, and demonstrate an understanding of the assignment and assignment requirements. In addition, content and assessments should align with the course level. It is important that 100 level courses have material that is introductory and foundational while 200 level courses contain higher level forms of thinking and require critical thinking and problem solving indicative of a level 200 course."
-        },
-        {
-            "id": "2.5.e",
-            "standard": "The course contains many forms and diverse types of assessments (e.g., written assignments, labs, projects, discussions, journals/reflections, blogs, exams, audio/video)",
-            "essential": false,
-            "points": "2",
-            "annotation": "Because learners possess diverse learning needs, it is important that instructors provide meaningful assessments that are diverse and meet different learning needs of the students. Although it is not required that every Module/Unit of Study contain differing assessments and assignments, there should be substantial opportunities for diversity in assessing student understanding. Students should be able to have opportunities to identify (tests/exams), write (papers), compose (papers/music), record (videos, audios), discuss (journals, discussion boards, blogs), reflect (journals, discussions),  and create (projects, monologues, presentations, etc..)"
-        },
-        {
-            "id": "2.5.f",
-            "standard": "Students have been given clear instructions (via narrative/video) regarding assessments and assignments.",
-            "essential": false,
-            "points": "2",
-            "annotation": "For each assignment/assessment students should be given CLEAR instructions and directions that support their understanding. It is important that the preferred method be video where students are able to hear, view, and read directions . Video and audio also allows the instructor to offer additional explanations and support that may not be offered in an assignment narrative."
-        },
-        {
-            "id": "2.6.a",
-            "standard": "A course map is provided that demonstrates alignment between course SLOs, module objectives, learning resources/activities, and assessments.",
-            "essential": true,
-            "points": "3",
-            "annotation": "The course map should direct the learner by showing all that will be taught, learned, and assessed. The course map should link all material and content as well as resources/activities and assessments. The course map template provided by eLearning should be utilized unless permission to use another resource has been obtained."
-        },
-        {
-            "id": "2.6.b",
-            "standard": "There is evidence that each course objective is being measured/assessed.",
-            "essential": true,
-            "points": "3",
-            "annotation": "Per the course map, there should be a clear link between each objective and an assessment that measures that objective. These should be noted through a numbering/lettering system that corresponds. (EX: 1a, A1, etc..)"
-        },
-        {
-            "id": "2.6.c",
-            "standard": "A rubric is provided for any instructor-created assessment which explains how students will be measured and graded.",
-            "essential": true,
-            "points": "3",
-            "annotation": "Students should be able to clearly understand how he/she will be graded on each assignment and assessment. If it is a test/exam created in the LMS, information regarding the number of items, how much each is worth, and the grading for that text/exam should be included. For all other assessments, there should be a rubric that measures content, skill, and ability. In some cases, one rubric can be utilized for several assignments (Ex: A generic  rubric for all journal entries, discussions, Blogs, etc…) If an assignment is unique and or is a Common Assessment, there should be an unique rubric that assesses that particular content/skill."
-        },
-        {
-            "id": "2.7.a",
-            "standard": "Due dates for assessments and tasks are evident and clear to students.",
-            "essential": false,
-            "points": "1",
-            "annotation": "Due dates are posted in each Module and are posted with each assignment/assessment. The due date can be posted along with the assignment/assessment title as this will make is clear to students. In addition, Module due dates should be posted with the title of the Module. Ideally, Module due dates will be posted on the left hand side of the LMS -with each Module."
-        },
-        {
-            "id": "2.7.b",
-            "standard": "Course grading policies, including feedback response time and late submissions, are clearly stated.",
-            "essential": false,
-            "points": "1",
-            "annotation": "How students will be graded, the grading scale, and all other grading policies should be contained in the course syllabus and listed,as needed, with specific assignments/assessments. If late work is accepted, the conditions for this must be outlined in the syllabus and in the course. If late work is not accepted, this must be stated as well."
-        },
-        {
-            "id": "2.7.c",
-            "standard": "Students have opportunities to self-assess and track their learning progress (pre-tests, reflections, peer reviews, draft submissions, practice quizzes, interactive games/simulations with feedback, etc.).",
-            "essential": false,
-            "points": "1",
-            "annotation": "Students appreciate the opportunity to complete a self-assessment especially if the assessment helps to prepare them for an assignment/assessment that will be graded. Self assessments are not usually graded (does not negatively impact a student’s grade) and supports a students understanding of a concept or skill. Examples of a self-reflective opportunity includes a research paper that is submitted in drafts and contains instructor feedback where the student has opportunities to improve achievement (if graded). Practice quizzes, pre-tests that are not graded, interactive games that measure a students’ understanding (Quizlet/Kahoot,etc..) and provide feedback are also examples."
-        },
-        {
-            "id": "2.8.a",
-            "standard": "There is evidence that the instructor is providing regular and substantive teaching and instruction.",
-            "essential": false,
-            "points": "2",
-            "annotation": "Instructor-created videos, written instructional narratives, or regular live classes that support interaction in each module/unit of study where the instructor is teaching concepts and skills constitute regular teaching and instruction. Providing substantive instruction requires the instructor to clarify students’ understandings, strengthen existing knowledge/skills, and address misconceptions. This can be demonstrated by asking clarifying questions via surveys, polls, discussion boards, etc., and addressing them. Evidence of providing substantive instruction can be shown through instructor-created videos, instructor-created instructional narratives, regularly-scheduled Microsoft Teams meetings, live streaming, and/or other virtual platforms."
-        },
-        {
-            "id": "2.8.b",
-            "standard": "Students can engage in collaborative/group work.",
-            "essential": false,
-            "points": "2",
-            "annotation": "There is at least one assignment/assessment that requires collaboration among students. This can be accomplished through the “Group Assignment” feature in the LMS.  A rubric assessing students’ contributions and satisfaction should be included."
-        },
-        {
-            "id": "2.8.c",
-            "standard": "The instructor provides course-specific opportunities for students to interact with the instructor and other students synchronously on a predictable and scheduled basis. (Zoom meeting, Teams meeting/chat, livestream, etc.)",
-            "essential": false,
-            "points": "2",
-            "annotation": "Zoom, TEAMS, Chats, Livestream and other virtual meeting platforms that are utilized should be implemented on a consistent basis. Students should know when these occur (students should be given this information at the beginning of the course). In addition, students should know HOW to access this platform and be given instructions and support regarding these synchronous (live and at the same time)  meetings."
-        },
-        {
-            "id": "2.9",
-            "standard": "Course content not developed by the instructor are “fair use” or appropriate copyright permission has been secured.",
-            "essential": true,
-            "points": "1",
-            "annotation": "Copyright permissions for materials should be secured. A statement regarding copyright permission for all course content should be included in the course syllabus and/or course. If copyright permission is not required, a statement noting the course complies with fair use should be included."
-        },
-        {
-            "id": "2.10.a",
-            "standard": "Assignment instructions are detailed and well-written. A rubric, with clearly defined scoring criteria, is provided.",
-            "essential": true,
-            "points": "1",
-            "annotation": "The Common Assessment should have clearly written directions and instructions. Students should know what the assignment is about, how to complete the assignment as well as grading expectations. A rubric that directly assesses the common assessment is provided (note that a generic rubric cannot be used for the common assessment rubric)."
-        },
-        {
-            "id": "2.10.b",
-            "standard": "A video discussing the Common Assessment, rubric criteria, and submission details is provided.",
-            "essential": true,
-            "points": "1",
-            "annotation": "The instructor should create an “informational” video where he/she discusses the assignment as well as the grading information. This video can accompany the instructions and rubric (2.10a)"
-        },
-        {
-            "id": "2.10.c",
-            "standard": "The instructor \"teaches and discusses\" the Common Assessment.",
-            "essential": true,
-            "points": "1",
-            "annotation": "The instructor should create an INSTRUCTIONAL video where he/she has taught concepts that are assessed in the common assessment. In some instances, this video may very well be a review of content and information previously taught. This should mirror what “teaching the common assessment” should look like in the classroom where the instructor anticipates what students’ questions and/or misunderstandings will be."
-        },
-        {
-            "id": "2.10.d",
-            "standard": "The Common Assessment requires students to utilize higher-order thinking and problem-solving skills.",
-            "essential": true,
-            "points": "1",
-            "annotation": "The common assessment should provide students the opportunity to use higher order thinking and critical thinking skills as outlined in Bloom’s levels of thinking."
-        },
-        {
-            "id": "3.1.a",
-            "standard": "Students are clearly aware of technological requirements and any additional software that may be required.",
-            "essential": true,
-            "points": "1",
-            "annotation": "Technology requirements and software implemented in the course should be clearly stated in the syllabus. Students should be aware of what technology skills will be needed as well as the technology requirements for the course. Allowing students to know this information, as well as software requirements, supports them in making sure they have the necessary technology abilities as well as hardware to be successful in the course."
-        },
-        {
-            "id": "3.1.b",
-            "standard": "Students understand how to seek assistance and support regarding third party resources by contacting the third party for tech support.",
-            "essential": true,
-            "points": "1",
-            "annotation": "Students should be aware of how to obtain assistance regarding technology support. Students should know how to seek support for third party tools that are implemented. This should be included in the syllabus. It is important to note that the college’s Helpdesk does not support third party tools and the publisher’s information for such support should be made clear to the students."
-        },
-        {
-            "id": "3.1.c",
-            "standard": "Course includes links to privacy policies for technology tools.",
-            "essential": true,
-            "points": "1",
-            "annotation": "The instructor should include links to privacy statements/policies regarding each technology tool that is utilized in the course. Each policy should include an accessible hyperlink. These should be included in the course syllabus on an attached addendum and/or listed in a clearly defined area in the course (Tech. support)."
-        },
-        {
-            "id": "3.2",
-            "standard": "Technical support for course materials (including publisher content) is provided to assist students with troubleshooting and resolving technology issues (CCC Helpdesk or vendor’s online support).",
-            "essential": true,
-            "points": "3",
-            "annotation": "Students should be aware of how to access support for publisher content as well as the LMS. Including information about the college’s help desk and how to access help desk support with LMS related issues will support students in troubleshooting tools and and other LMS related technical issues. If another vendor’s tools are implemented in the course, students should clearly understand how to access support, as needed, for vendor specific support and tools. It should be make evident to students that CCC Help desk does not support/resolve other vendor related issues. This information should be included in the syllabus (addendum)  and/or located in the course in a specific area that allows students easy access. THIS IS A REQUIRED ITEM."
-        },
-        {
-            "id": "3.3",
-            "standard": "Instructor-created videos are uploaded to the college's video hosting platform. Captions are provided.",
-            "essential": false,
-            "points": "3",
-            "annotation": "All instructor-created videos are made using the college’s video hosting platform or uploaded to the platform if they are created using another tool. Captions should be included. Videos should be concise and support students’ understanding of course/module content, requirements, and other skills as needed."
-        },
-        {
-            "id": "3.4.a",
-            "standard": "Instructors have submitted YouTube videos used in the course for approval. There is a statement indicating YOUTUBE videos are accessible to all students and/or equitable, alternative videos are available to CCP students.",
-            "essential": false,
-            "points": "1",
-            "annotation": "All YouTube videos utilized in the course have been approved for use by the Director of Library Services. This approval can be achieved by contacting the director with a list of those YouTube videos needing approval. If a particular video (You Tube or other) is NOT accessible to high school students, an equivalent, accessible video is available. A statement should be included in the syllabus that all videos have been approved for use and are accessible to all students, including high school/CCP students OR a statement that any videos that are not accessible have an equivalent video available that is accessible to all high school/CCP students."
-        },
-        {
-            "id": "3.4.b",
-            "standard": "All video links have been checked to determine if links work and are accessible.",
-            "essential": false,
-            "points": "1",
-            "annotation": "All video links should be monitored to determine availability and accessibility. All links should be monitored each semester to determine if they are still available for use. If not, the instructor should find an equivalent, accessible source and update course materials to reflect this change. This change should also occur in all sections of the course -in the Master course before course copying occurs."
-        },
-        {
-            "id": "3.4.c",
-            "standard": "The instructor monitors videos and other resources to ensure they are current and up to date.",
-            "essential": false,
-            "points": "1",
-            "annotation": "All videos and resources utilized in the course should reflect the most current research and information aligned with the course description and course content. This will provide students with the most current and research based content. This includes textbooks, lab manuals, third party resources, OER resources, videos, audios, articles, links, and all other course content. All course content links should be available and accessible. Content that is no longer available should be replaced and updates made to the Master course and all other sections of the course."
-        },
-        {
-            "id": "3.5",
-            "standard": "Online student hours have been posted. Instructions on accessing online student hours are provided.",
-            "essential": true,
-            "points": "3",
-            "annotation": "The instructor has posted online hours in the course syllabus as well as Instructor Contact Information located in the LMS. Students are given directions and support on how to access the instructor. Students should be provided clear directions and instructions regarding the tool that will be implemented for students to access the online hours. Students have been given the meeting link and support on how to navigate the tool (Zoom, Teams, etc..) Students can be given support on how to implement and use the tool through an instructor created or tool supported video. A link with this information should be included on the course menu and/or in a specific area in the course (announcements, etc..). THIS IS A REQUIRED ITEM."
-        },
-        {
-            "id": "4.1",
-            "standard": "The course includes information regarding accessibility of technology tools. 🌟🌟🌟",
-            "essential": true,
-            "points": "3",
-            "annotation": "Each tool’s accessibility policy/statement should be included in the course. This can be achieved by including an accessible, weblink to the tools VPat information (as it is aligned to section 508 of the Rehabilitation Act. This is a requirement for all technology tools and support offered in the course. Vpat information for the LMS, videos, publisher content, third party tools, and other sources is required. The accessibility link (VPat) can be included in a chart where each tool and resources’ privacy statement is located. Make sure the course is implementing the most current information (supplied by eLearning) and includes course specific information that may not be listed. THIS IS A REQUIRED ITEM."
-        },
-        {
-            "id": "4.2.a",
-            "standard": "The course provides multi-modal learning opportunities for diverse learners.",
-            "essential": false,
-            "points": "2",
-            "annotation": "Multimodal learning suggests that when a number of our senses – visual, auditory, kinaesthetic – are being engaged during learning, we understand and remember more. In addition, implementing diverse forms of technology also supports learners in acquiring 21st Century technology skills. Students should be exposed to a variety of instructional supports that are diverse and engaging, supporting interaction and UDL (Universal Design for Learning)."
-        },
-        {
-            "id": "4.2.b",
-            "standard": "The course provides instruction to meet the needs of identified exceptional learners.",
-            "essential": false,
-            "points": "1",
-            "annotation": "Identified, exceptional learners have their learning needs met through the modification of course content, assignments, activities, and assessments. Instructors should be aware of any identified learners in their course as well as the modifications that must be implemented. Instructors should follow these guidelines and requirements in order to promote student success in the course."
-        },
-        {
-            "id": "4.3.a",
-            "standard": "Text is formatted with headings, lists, and other styles to facilitate readability.",
-            "essential": false,
-            "points": "2",
-            "annotation": "Headings and lists that are included in the course are formatted correctly so the course can be easily read by a screen reader. ELearning will support instructors in correctly creating lists and headers."
-            },
-            {
-            "id": "4.3.b",
-            "standard": "Hyperlink text is descriptive, meaningful, and easy to understand (does not display the URL and avoids using 'click here'). Hyperlinks are set to open in a new window.",
-            "essential": false,
-            "points": "2",
-            "annotation": "Hyperlinked information should open in a new window and not within the course. This allows students to navigate the course with ease. In addition, the hyperlink is displayed correctly. For example, the student does not see: http://www.______________ (the URL). Rather the student sees the content hyperlinked correctly (blue and underlined with the URL included in the hyperlink information). ELearning can assist instructors in creating correct hyperlinks. Students should know information about the hyperlinked information. Example: 'This hyperlinked content will support your understanding of ________ and will assist you in the completion of the __________ assignment.' OR 'This hyperlinked information will increase your knowledge of _______ and is not linked to a course assessment/assignment.'"
-            },
-            {
-            "id": "4.3.c",
-            "standard": "There is adequate contrast between text and background content. Blinking/flashing text is avoided.",
-            "essential": false,
-            "points": "2",
-            "annotation": "The course should be designed in a manner where there is adequate contrast between the text and background content (this includes color). Having enough contrast between text and the background ensures that learners with moderately low vision, color deficiencies, and reading disabilities can be supported and needs met."
-            },
-            {
-            "id": "4.3.d",
-            "standard": "Instructor-created videos are less than 20 minutes in length or are segmented into chapters.",
-            "essential": false,
-            "points": "2",
-            "annotation": "Instructional videos should be less than 20 minutes or the video should be segmented into chapters in order to provide students with an opportunity to analyze and internalize content presented. This supports learner attainment and follows best practices for online learning."
-            },
-            {
-            "id": "4.3.e",
-            "standard": "Course is free of grammatical and spelling errors.",
-            "essential": false,
-            "points": "2",
-            "annotation": "The instructor had analyzed and reviewed the course for grammar and spelling errors. None should be present. Utilizing spell check, Grammarly, and other tools will support the instructor in noting and correcting such errors."
-            },
-            {
-            "id": "4.4",
-            "standard": "How to obtain accommodations is clearly stated.",
-            "essential": true,
-            "points": "1",
-            "annotation": "Learners who need accommodations and course modifications should know how to obtain these. This should be clearly outlined in the syllabus and/or course. THIS IS A REQUIRED ITEM."
-            },
-            {
-            "id": "4.5",
-            "standard": "Technologies used to accommodate students with disabilities (use of assistive technologies) are appropriately integrated.",
-            "essential": true,
-            "points": "1",
-            "annotation": "Any type of assistive technology/tool that is required for learner support is correctly integrated and utilized in the course. Instructors should be aware of students requiring such technology support. THIS IS A REQUIRED ITEM."
-            },
-            {
-            "id": "4.6",
-            "standard": "The course contains equivalent alternatives to auditory and visual content (captions, transcripts, alt-text, etc.).",
-            "essential": true,
-            "points": "3",
-            "annotation": "Course content is provided in alternatives that meet the needs of diverse learners. This means that there is not one type of content (visual only). There should be alternatives for visual and auditory content. Images should contain alt-text with clear descriptions of that image. Videos should be captioned and transcripts included (as needed). THIS IS A REQUIRED ITEM."
-            }
-        
+    "standards": [
+      {
+        "id": "1.1.a",
+        "standard": "The narrative/video explains how to navigate the course, emphasizing the Begin Here module. EVA instructions are evident with an established due date.",
+        "essential": true,
+        "points": "1",
+        "annotation": "The welcome announcement and/or video posted at the beginning of the course explains how to navigate the course. Students are shown the course layout and how to work through modules and links. This should be considered as a \"tour\" of your course. The EVA should be highlighted. Students should be directed to complete this task first. The EVA should have prominence in your course so that students know this task is very important and should be completed as soon as they log in. The due date, which should be aligned with the course's census date, should be evident to the students. NOTE that if you do not hide/close the module where the EVA is located, the EVA task should be made \"unavailable\" once the census date has passed. Should instructors incorporate some of this information (navigating the course) in the BEGIN HERE module or elsewhere in the course, students should be directed to the appropriate location in the course."
+      },
+      {
+        "id": "1.1.b",
+        "standard": "The narrative/video introduces the students to the course and an overview of what will be taught/learned.",
+        "essential": true,
+        "points": "1",
+        "annotation": "Students should be aware of what the course is about and have an overview of tasks, assignments, etc... This is more than just simply reading the course description. It also includes the types of assignments students are expected to engage in, primary topics/units of study, and if the course is a foundational course, prerequisite, corequisite, or Part II of a course, this information should be highlighted as well. Strengthen this practice by explicitly discussing the relevance of the course objectives to real-world applications. Make this a \"discussion\" between you and the student- explaining what the student can expect to learn and experience in your course."
+      },
+      {
+        "id": "1.1.c",
+        "standard": "The narrative/video includes a personal welcome by the instructor where he/she introduces self.",
+        "essential": true,
+        "points": "1",
+        "annotation": "The instructor should set a welcoming and personal tone by introducing him/herself to the course. Sharing personal information about work history, education history, interests, hobbies, etc.. should also be included. Visual aids can be included with the video/narrative to add creativity to the welcome. This welcome can set a positive tone for the students and the course."
+      },
+      {
+        "id": "1.2.a",
+        "standard": "All links on the course menu template are in the correct order. There are no menu link deletions or substitutions. No more than three additional menu links have been added (under the Blackboard help divider line).",
+        "essential": true,
+        "points": "1",
+        "annotation": "All course links should follow the current menu template layout. This ensures consistency and predictability for students enrolled in online coursework and is aligned with institutional policies. Menu links should be titled/labeled with the recommended language- there should be no substitutions for the menu links' titles. In addition, the instructor does NOT include more than 3 personalized/additional links. These additional links are located below the divider line, after \"Blackboard Help.\" Review any course-copied material and be sure to re-order the links to follow the required template and format."
+      },
+      {
+        "id": "1.2.b",
+        "standard": "Content links are active, labeled with descriptive text, and open in a new window.",
+        "essential": true,
+        "points": "1",
+        "annotation": "All content links are active. This means that when students click on these an error message does not appear and the link is not broken and content is available. In addition, the link should be labeled with descriptive text, allowing the student to know what the link contains. All links should open in a new window (outside Blackboard). This allows students to be taken directly to the content. The descriptive text allows the student to know what the content links contain. For example, a link to a content folder includes information about what is in the folder."
+      },
+      {
+        "id": "1.2.c",
+        "standard": "Content links, videos, and resources contain descriptions of the purpose, relevance to the course, and required student action.",
+        "essential": true,
+        "points": "1",
+        "annotation": "Along with containing the descriptive text of what the link contains, each link, video, and course resource should contain a statement explaining the purpose/relevance to the course as well as the required student action. For example, if the instructor has created an instructional video about the Declaration of Independence, the following may be included: \"Please view the following instructional video about the Declaration of Independence.\" \"This video explains the birth of this document and why it was necessary. This video will support your understanding of this module's topics and will aid you in completing the module's discussion board\" You are telling the student what the resource is, what they should do with it, and the relevance of it (how it connects to an assignment/assessment). \"Please access the following _____________ as it contains information regarding__________. This information will support you as you complete the ____________ in this Module\"."
+      },
+      {
+        "id": "1.3.a",
+        "standard": "Modules are organized using a consistent and logical layout: introductory video/narrative providing an overview of the module, outlined SLOs and module objectives, instructional content/resources/activities, and assignments/assessments.",
+        "essential": false,
+        "points": "3",
+        "annotation": "Each module should be organized in the following manner: Introductory video/narrative that contains an overview of the Module (what will be taught/learned, resources, materials, assessments, etc...), List of Course SLOs, Module Objectives, assignments/assessments, Instructional Resources and Activities (Instructor-created videos, reading assignments, content links, resources, study guides, interactive games, and any non-graded activities) Call attention to those that are required and optional. Students should be clearly aware of expectations., Assignments and Assessments. It is important that EVERY Module have an organized and consistent layout. Make sure that titles and branding are consistent. If there are resources/activities that are NOT required these need to be noted and placed in each Module accordingly."
+      },
+      {
+        "id": "1.4.a",
+        "standard": "Course provides clearly defined norms, expectations, and netiquette guidelines.",
+        "essential": false,
+        "points": "1",
+        "annotation": "Defined course norms (expectations, rules, etc...) for attendance, late work, participation, appreciation of diverse opinions, etc... should be clearly defined. Expectations for netiquette (how students interact via email, social media, discussion boards, blogs, and all other electronic means of communication) should be clearly posted in the course and syllabi. Reflect on those practices that support student success and call attention to these in your norms and expectations. Example: \"All work must be submitted in Bb and may not be emailed to your instructor.\""
+      },
+      {
+        "id": "1.4.b",
+        "standard": "Prerequisite information and/or required competencies in the subject area are provided.",
+        "essential": false,
+        "points": "1",
+        "annotation": "Prerequisite skills, knowledge, and courses should be listed. If a course does not require a prerequisite or corequisite course, this should be noted. Skills that a student should have that will enable success in the course should be listed. Example: There are no prerequisite courses required for this course. However, students should be able to work independently, have good time management skills, be able to read and comprehend texts and material and write legibly and in complete, coherent sentences. These skills will contribute to the student's success in this course. This information should be located below the course description."
+      },
+      {
+        "id": "1.4.c",
+        "standard": "Required computer and digital information literacy skills are provided.",
+        "essential": false,
+        "points": "1",
+        "annotation": "Instructors should include the computer and digital literacy skills required for success in the course. Refer to the list that is provided by eLearning. For online courses, skills should include (but not limited to): ability to navigate the Learning Management System (Bb), complete assignments, and tasks, respond to emails, complete discussion boards and other forms of communication, know how to correctly log on and off in Bb and Outlook, complete web-based research using databases, online libraries, and websites. , communicate with others professionally, correctly utilize Microsoft Office, and participate in virtual learning platforms (Microsoft TEAMS). For web-assisted and traditional courses, this list may need to be modified. It is important to tell students your expectations of required technology. If a cell phone, tablet, IPAD, etc.. will not support all features of your course, the student should know that coursework cannot be completed using these devices."
+      },
+      {
+        "id": "2.1.a",
+        "standard": "The instructor has verified the course description with the NCCCS (North Carolina Community College System) Combined Course Library. Policies stated in the syllabus are consistent with the course configuration, design, and content in the LMS.",
+        "essential": false,
+        "points": "2",
+        "annotation": "It is important that the instructor have the most current version of the course description and information relating to the course, as outlined by the NCCCS, listed on the syllabus. The instructor should visit the NCCCS website and access the combined course library, searching for the course, noting course description and details about the course ( credit/contact hours, pre and co-requisites, transfer information, etc...). This same information should be consistent with what is contained in the LMS regarding the course. If no pre/co-requisites are required for the course, a statement regarding this should be included: \"No Pre/Co-requisite courses are required for this course.\" This review standard includes GRADING POLICIES. Instructors should determine if the grade center is set up properly and follows the information outlined in the syllabus and course. Refrain from using both percentages and points as this can be very confusing for the student. Instructors should be aware of the features of the Grading Center (weighted grading, dropping the lowest grade, etc..) and how these features impact the student experience."
+      },
+      {
+        "id": "2.2.a",
+        "standard": "SLOs are listed in the course syllabus. There are an appropriate number of SLOs for the course content.",
+        "essential": true,
+        "points": "1",
+        "annotation": "It is important that SLOs reflect an overview of the material that should be learned in the course. Noting that some courses cover a great deal of content while others do not, the number of SLOs should reflect this. Generally, there should be no fewer than 3 (three) SLOs and no more than 5 (five). If the instructor feels there should be more SLOs, reach out to eLearning for additional support."
+      },
+      {
+        "id": "2.2.b",
+        "standard": "SLOs are broad, align with the course description, and include critical thinking skills.",
+        "essential": true,
+        "points": "1",
+        "annotation": "SLOs are not written with language that is specific to assignments (ex: The student will write, the student will build, the student will answer, etc..) Rather, they are broadly written, to allow multiple objectives to be aligned to a specific SLO. For example, when a student \"analyzes\" content, this suggests that the student is engaging in more than one activity, assignment, test, project, etc.. for analysis to take place. SLOs should be written with broader/critical thinking skills."
+      },
+      {
+        "id": "2.2.c",
+        "standard": "At least one SLO is identified/listed in each module.",
+        "essential": true,
+        "points": "1",
+        "annotation": "At least one of the SLOs written is listed in a Module. Note that if a module contains multiple weeks, chapters, units, etc.. multiple SLOs may be needed in order to cover all learning processes that are taking place and align with the content presented. NOTE that the SLOs listed on the Syllabus & Course Map must be the same SLOs contained in the course/learning modules. Instructors must rely on the course description or NCCCS when creating SLOs and NOT a textbook or other resource."
+      },
+      {
+        "id": "2.3.a",
+        "standard": "Module objectives are aligned to the identified course SLO(s).",
+        "essential": false,
+        "points": "2",
+        "annotation": "A clear alignment/relationship between SLOs and objectives should exist. If an SLO asks the learner to analyze the events of World War II, an objective asking students to discuss the causes of the Revolutionary War is not directly aligned with the SLO. Objective language is more specific and DIRECTLY aligned with the assessment/assignment."
+      },
+      {
+        "id": "2.3.b",
+        "standard": "Module objectives are written with measurable, observable, verbs.",
+        "essential": false,
+        "points": "2",
+        "annotation": "Objectives should be written with direct language (verbs) that connect to graded assignments, activities, etc... Objectives should be concise and DIRECTLY related to what is being measured. The learner should know what the assignment will be when the objective is correctly aligned. The objective is NOT broadly written as the SLO. Example: The student will discuss, write, compose, explain, build, create, design, compute, implement, research, review, identify, name, record, produce, compare, contrast, list, etc... If the assessment is a discussion board post, the student will summarize, discuss, and explain. If the assessment is a written summary, the student will compose, summarize, compare, contrast, outline, etc.... If the assessment is a T/F, MC, fill in the blank, matching test/quiz, the student will recall, identify, define, etc.. If the assessment is a project, timeline, illustration, or drawing, the student will create, demonstrate, sketch, illustrate, Some disciplines have content-specific measurable verbs such as: calculate, graph, multiply, measure, dissect, solve,"
+      },
+      {
+        "id": "2.4.a",
+        "standard": "Tasks, videos, links, and other module resources scaffold in a logical manner to promote understanding and attainment of concepts.",
+        "essential": false,
+        "points": "2",
+        "annotation": "Activities should promote the attainment of concepts and skills. All activities, tasks, materials, and resources should build on each other, promoting learning. The Module Overview video should be presented first, with SLOs and Objectives included. Tasks and activities that students are expected to engage in should be listed in the order they should be completed. This includes instructor-created videos that facilitate learning and other media that support the learning of skills and content. Resources, material, and content that introduces a concept/skill should be accessed by students first and other topics that relate to the concept/skill should follow. Students should know how to navigate each module, where to begin, what to access first, next, and last, and what assignments/assessments to complete. If resources a optional, this needs to be noted."
+      },
+      {
+        "id": "2.4.b",
+        "standard": "Interaction between instructor and learners and among learners is evident.",
+        "essential": false,
+        "points": "2",
+        "annotation": "Interaction is active and should be included in each module and in the course. There should be opportunities for the instructor to interact (live interaction) during each Module/Unit of Study. This can be done via TEAMS meetings and/or other virtual meeting platforms. The instructor can also meet with students through a messaging system such as Bb IM, TEAMS, or Email when the student has questions, concerns, and/or needs support from the instructor. Interaction among learners can occur in virtual meetings as well as Discussion Boards, Blogs, group projects/assignments, interactive polls, collaborative projects, and active learning experiences. How the instructor plans to provide interaction between self and student(s) should be clearly posted in the course."
+      },
+      {
+        "id": "2.4.c",
+        "standard": "There is evidence of instructor presence/interaction where teaching occurs. (For online courses, the instructor teaches/facilitates module content to resemble instruction in the seated environment).",
+        "essential": false,
+        "points": "2",
+        "annotation": "Online students must receive equitable learning experiences that model what the traditional/seated student would receive. The instructor should provide evidence of teaching in each Module/Unit of Study. This can best be met through the creation of an instructional video. Again, content should be TAUGHT. Reading through a PowerPoint will not satisfy this requirement. The video should be reflective of the instruction that would take place in the seated environment noting that student reaction/interaction would not be evident but anticipated. If the instructor chooses to video a live, seated class where the same content is being taught, the instructor must consider video and audio quality. In addition, noting that students who may be visible will need to give permission to be recorded. It is important to note that the instructor does not need to create a video regarding the whole Module's content to meet this requirement. The instruction may be a video where the instructor is teaching, modeling, and providing support regarding a particular assignment or concept. Reflect on those concepts that are most difficult for students to understand or grasp and provide video support for these areas."
+      },
+      {
+        "id": "2.4.d",
+        "standard": "All module activities and resources support instruction and assessment.",
+        "essential": false,
+        "points": "2",
+        "annotation": "All activities and tasks that are included in each Module/Unit of Study should support learning and assessment. Including information that is not relevant to the subject matter, skill, concept, etc.. can confuse the student as he/she is provided access to material that may not be relevant to that particular topic/skill/concept. The instructor must consider the quality of support, media, materials, and resources instead of quantity."
+      },
+      {
+        "id": "2.5.a",
+        "standard": "Students are provided clear directions that support understanding of module expectations. Assessments and tasks are driven by the course description and not a particular resource.",
+        "essential": false,
+        "points": "2",
+        "annotation": "Students should know exactly what to do in each module. They should know what they will learn and do. It should be clear what activities are present in the course and why. This can be completed through the Module Overview video as well as descriptive narrative. One way to accomplish this is to provide students with a bulleted list of what to do in each Module. This list can be located in the Module Overview video. In addition, calling attention to the graded assignments/tasks (bolding, *,) will support students. Students should be given clear directions explaining how each activity supports an assessment/assignment and in what order these should occur. Example: The following video will support your understanding of _________. You should view this required resources before beginning any work in this Module. This video will provide information that is needed to complete the ______ assignment. All resources, materials, activities, and assignments should be aligned with the COURSE DESCRIPTION and not a textbook, manual, third-party resource, or other material. (Note if using a textbook, instructors must teach the skills that are outlined in the course description and not the table of contents. This may require the instructor to omit some chapters/material or find additional resources to cover concepts that may not be included in a particular text/resource."
+      },
+      {
+        "id": "2.5.b",
+        "standard": "Tools utilized are appropriate and support interaction and collaboration.",
+        "essential": false,
+        "points": "2",
+        "annotation": "Tools the instructor chooses to implement and utilize in the course should have a purpose. Tools should provide opportunities for interaction among students and the instructor as well as students and other students. The tools should also support collaboration among all members of the class. Consider tools that are available within the LMS as well as tools available to instructors that may not be contained in the LMS. Tools that are not traditionally utilized should be approved by eLearning. Discussion Boards, Blogs, Group Work, TEAMS Chats, and Peer Teaching are just a few examples of how this standard can be met."
+      },
+      {
+        "id": "2.5.c",
+        "standard": "Where appropriate/available, Open Educational Resources, free, or low-cost materials are used.",
+        "essential": false,
+        "points": "2",
+        "annotation": "To implement the most current research related to the course and content, OER or Free, low-cost materials should be utilized. This practice gives the instructor much more autonomy and supports the instructor as the instructional and content expert. In addition, providing material in this manner supports students through reducing financial obligations related to textbooks, manuals, and other materials. The use of 3rd party resources should not be used if at all possible. ELearning will support instructors in finding and implementing OER, Free, and Low-Cost materials. Instructors must frequently review OER content to ensure it reflects the latest research and aligns with the Course SLOs and Course Description. This is true for all materials in the course."
+      },
+      {
+        "id": "2.5.d",
+        "standard": "The instructor teaches content in a logical, sequential manner where students are asked to move from simple to complex forms of learning. Module content and assessments are appropriate for the course level.",
+        "essential": false,
+        "points": "2",
+        "annotation": "The instructor should teach in a manner where students are asked to move from simple to more complex forms of learning and achievement. For example, students should not be asked to create a research paper until they have been taught and assessed regarding their knowledge regarding how to conduct meaningful research related to their topic, identify key elements of the topic, discuss possible research topics, demonstrate proper citation that may be required, and demonstrate an understanding of the assignment and assignment requirements. In addition, content and assessments should align with the course level. 100-level courses must have materials that are introductory and foundational while 200-level courses contain higher-level forms of thinking and require critical thinking and problem-solving indicative of a level 200 course. When scaffolding content and learning experiences, the instructor should reflect on the sequence of learning for a particular Module, Unit of Study, or concept. What should happen first, next, then, and last? For larger concepts and chunks of learning, it will be appropriate for students to be exposed to these learning experiences, activities, assessments, and assignments through multiple Modules."
+      },
+      {
+        "id": "2.5.e",
+        "standard": "The course contains many forms and diverse types of assessments (e.g., written assignments, labs, projects, discussions, journals/reflections, blogs, exams, audio/video)",
+        "essential": false,
+        "points": "2",
+        "annotation": "Because learners possess diverse learning needs, instructors must provide meaningful assessments that are diverse and meet the different learning needs of the students. Although it is not required that every Module/Unit of Study contain differing assessments and assignments, there should be substantial opportunities for diversity in assessing student understanding. Students should be able to have opportunities to identify (tests/exams), write (papers), compose (papers/music), record (videos, audios), discuss (journals, discussion boards, blogs), reflect (journals, discussions), and create (projects, monologues, presentations, etc..). It is important to note that students should be exposed to multiple levels of learning when learning a concept or skill."
+      },
+      {
+        "id": "2.5.f",
+        "standard": "Students have been given clear instructions (via narrative/video) regarding assessments and assignments.",
+        "essential": false,
+        "points": "2",
+        "annotation": "For each assignment/assessment students should be given CLEAR instructions and directions that support their understanding. The preferred method is video where students can hear, view, and read directions. Video and audio also allow the instructor to offer additional explanations and support that may not be offered in an assignment narrative."
+      },
+      {
+        "id": "2.6.a",
+        "standard": "A course map is provided that demonstrates alignment between course SLOs, module objectives, learning resources/activities, and assessments.",
+        "essential": true,
+        "points": "3",
+        "annotation": "The course map should direct the learner by showing all that will be taught, learned, and assessed. The course map should link all material and content as well as resources/activities and assessments. The course map template provided by eLearning should be utilized unless permission to use another resource has been obtained."
+      },
+      {
+        "id": "2.6.b",
+        "standard": "There is evidence that each course objective is being measured/assessed.",
+        "essential": true,
+        "points": "3",
+        "annotation": "Per the course map, there should be a clear link between each objective and an assessment that measures that objective. These should be noted through a numbering/lettering system that corresponds. (EX: 1a, A1, etc..)"
+      },
+      {
+        "id": "2.6.c",
+        "standard": "A rubric is provided for any instructor-created assessment which explains how students will be measured and graded.",
+        "essential": true,
+        "points": "3",
+        "annotation": "Students should be able to clearly understand how he/she will be graded on each assignment and assessment. If it is a test/exam created in the LMS, information regarding the number of items, how much each is worth, and the grading for that text/exam should be included. For all other assessments, there should be a rubric that measures content, skill, and ability. In some cases, one rubric can be utilized for several assignments (Ex: A generic rubric for all journal entries, discussions, Blogs, etc...) If an assignment is unique and or is a Common Assessment, there should be a unique rubric that assesses that particular content/skill."
+      },
+      {
+        "id": "2.7.a",
+        "standard": "Due dates for assessments and tasks are evident and clear to students.",
+        "essential": false,
+        "points": "1",
+        "annotation": "Due dates are posted in each Module and are posted with each assignment/assessment. The due date can be posted along with the assignment/assessment title as this will make it clear to students. In addition, Module due dates should be posted with the title of the Module. Ideally, Module due dates will be posted on the left-hand side of the LMS -with each Module."
+      },
+      {
+        "id": "2.7.b",
+        "standard": "Course grading policies, including feedback response time and late submissions, are clearly stated.",
+        "essential": false,
+        "points": "1",
+        "annotation": "How students will be graded, the grading scale and all other grading policies should be contained in the course syllabus and listed, as needed, with specific assignments/assessments. If late work is accepted, the conditions for this must be outlined in the syllabus and in the course. If late work is not accepted, this must be stated as well."
+      },
+      {
+        "id": "2.7.c",
+        "standard": "Students have opportunities to self-assess and track their learning progress (pre-tests, reflections, peer reviews, draft submissions, practice quizzes, interactive games/simulations with feedback, etc.).",
+        "essential": false,
+        "points": "1",
+        "annotation": "Students appreciate the opportunity to complete a self-assessment especially if the assessment helps to prepare them for an assignment/assessment that will be graded. Self-assessments are not usually graded (do not negatively impact a student's grade) and support a student's understanding of a concept or skill. Examples of a self-reflective opportunity include a research paper that is submitted in drafts and contains instructor feedback where the student has opportunities to improve achievement (if graded). Practice quizzes, pre-tests that are not graded, interactive games that measure a student's understanding (Quizlet/Kahoot, etc..), and providing feedback are also examples."
+      },
+      {
+        "id": "2.8.a",
+        "standard": "There is evidence that the instructor is providing regular and substantive teaching and instruction.",
+        "essential": false,
+        "points": "2",
+        "annotation": "The Instructor is providing asynchronous and synchronous opportunities for substantial teaching and instruction. Providing substantive instruction synchronously (through regular scheduled TEAMS meetings) allows the instructor to clarify students' understandings, strengthen existing knowledge/skills, and address misconceptions. This can be done during weekly posts, videos, TEAMS meetings, Live Streaming, and other virtual platforms. Asynchronous opportunities include instructor-created instructional videos, instructional videos from other sources, and self-check quizzes for understanding during these videos."
+      },
+      {
+        "id": "2.8.b",
+        "standard": "Students can engage in collaborative/group work.",
+        "essential": false,
+        "points": "2",
+        "annotation": "There is at least one assignment/assessment that requires collaboration among students. This can be accomplished through the \"Group Assignment\" feature in the LMS. A rubric assessing students' contributions and satisfaction should be included. In addition, students can collaborate through discussion board forums, blogs, chats, and peer teaching activities."
+      },
+      {
+        "id": "2.8.c",
+        "standard": "The instructor provides course-specific opportunities for students to interact with the instructor and other students synchronously on a predictable and scheduled basis.( Teams meeting/chat, livestream, etc.)",
+        "essential": false,
+        "points": "2",
+        "annotation": "Microsoft TEAMS, Chats, Livestream, and other virtual meeting platforms that are utilized should be implemented consistently. Students should know when these occur (students should be given this information at the beginning of the course). In addition, students should know HOW and WHEN to access this platform and be given instructions and support regarding these synchronous (live and at the same time) meetings."
+      },
+      {
+        "id": "2.9",
+        "standard": "Course content not developed by the instructor is \"fair use\" or appropriate copyright permission has been secured.",
+        "essential": true,
+        "points": "1",
+        "annotation": "Copyright permissions for materials should be secured. A statement regarding copyright permission for all course content should be included in the course syllabus and/or course. If copyright permission is not required, a statement noting the course complies with fair use should be included."
+      },
+      {
+        "id": "2.10.a",
+        "standard": "Assignment instructions are detailed and well-written. A rubric, with clearly defined scoring criteria, is provided.",
+        "essential": true,
+        "points": "1",
+        "annotation": "The Common Assessment should have clearly written directions and instructions. Students should know what the assignment is about, how to complete the assignment as well as grading expectations. A rubric that directly assesses the common assessment is provided (note that a generic rubric cannot be used for the common assessment rubric)."
+      },
+      {
+        "id": "2.10.b",
+        "standard": "A video discussing the Common Assessment, rubric criteria, and submission details is provided.",
+        "essential": true,
+        "points": "1",
+        "annotation": "The instructor should create an \"informational\" video where he/she discusses the assignment as well as the grading information. This video can accompany the instructions and rubric (2.10a)"
+      },
+      {
+        "id": "2.10.c",
+        "standard": "The instructor \"teaches and discusses\" the Common Assessment.",
+        "essential": true,
+        "points": "1",
+        "annotation": "The instructor should create an INSTRUCTIONAL video where he/she has taught concepts that are assessed in the common assessment. in some instances, this video may very well be a review of content and information previously taught. This should mirror what \"teaching the common assessment\" should look like in the classroom where the instructor anticipates what students' questions and/or misunderstandings will be."
+      },
+      {
+        "id": "2.10.d",
+        "standard": "The Common Assessment requires students to utilize higher-order thinking and problem-solving skills.",
+        "essential": true,
+        "points": "1",
+        "annotation": "The common assessment should provide students the opportunity to use higher-order thinking and critical thinking skills as outlined in Bloom's levels of thinking."
+      },
+      {
+        "id": "3.1.a",
+        "standard": "Students are aware of technological requirements and any additional software that may be required.",
+        "essential": true,
+        "points": "1",
+        "annotation": "Technology requirements and software implemented in the course should be clearly stated in the syllabus. Students should be aware of what technology skills will be needed as well as the technology requirements for the course. This includes any requirements needed for third-party sources and resources. Allowing students to know this information, as well as software requirements, supports them in making sure they have the necessary technology abilities as well as hardware to be successful in the course."
+      },
+      {
+        "id": "3.1.b",
+        "standard": "Students understand how to seek assistance and support regarding third-party resources by contacting the third party for tech support.",
+        "essential": true,
+        "points": "1",
+        "annotation": "Students should be aware of how to obtain assistance regarding technology support. Students should know how to seek support for third-party tools that are implemented. This should be included in the syllabus. It is important to note that the college's Helpdesk does not support third-party tools and the publisher's information for such support should be made clear to the students."
+      },
+      {
+        "id": "3.1.c",
+        "standard": "Course includes links to privacy policies for technology tools.",
+        "essential": true,
+        "points": "1",
+        "annotation": "The instructor should include links to privacy statements/policies regarding each technology tool that is utilized in the course. Each policy should include an accessible hyperlink. These should be included in the course syllabus on an attached addendum and/or listed in a clearly defined area in the course (Tech. support)."
+      },
+      {
+        "id": "3.2",
+        "standard": "Technical support for course materials (including publisher content) is provided to assist students with troubleshooting and resolving technology issues (CCC Helpdesk or vendor's online support).",
+        "essential": true,
+        "points": "3",
+        "annotation": "Students should be aware of how to access support for publisher content as well as the LMS. Including information about the college's help desk and how to access help desk support with LMS-related issues will support students in troubleshooting tools and other LMS-related technical issues. If another vendor's tools are implemented in the course, students should clearly understand how to access support, as needed, for vendor-specific support and tools. It should be made evident to students that the CCC Help Desk does not support/resolve other vendor-related issues. This information should be included in the syllabus (addendum) and/or located in the course in a specific area that allows students easy access. THIS IS A REQUIRED ITEM."
+      },
+      {
+        "id": "3.3",
+        "standard": "Instructor-created videos are uploaded to the college's video hosting platform. Captions are provided.",
+        "essential": false,
+        "points": "3",
+        "annotation": "All instructor-created videos are made using the college's video hosting platform or uploaded to the platform if they are created using another tool. Captions should be included. Videos should be concise and support students' understanding of course/module content, requirements, and other skills as needed."
+      },
+      {
+        "id": "3.4.a",
+        "standard": "Instructors have submitted YouTube videos used in the course for approval. There is a statement indicating YOUTUBE videos are accessible to all students and/or equitable, alternative videos are available to CCP students.",
+        "essential": false,
+        "points": "1",
+        "annotation": "All YouTube videos utilized in the course have been approved for use by the Director of Library Services. This approval can be achieved by contacting the director with a list of those YouTube videos needing approval. If a particular video (YouTube or other) is NOT accessible to high school students, an equivalent, accessible video is available. A statement should be included in the syllabus that all videos have been approved for use and are accessible to all students, including high school/CCP students, OR a statement that any videos that are not accessible have an equivalent video available that is accessible to all high school/CCP students."
+      },
+      {
+        "id": "3.4.b",
+        "standard": "All video links have been checked to determine if the links work and are accessible.",
+        "essential": false,
+        "points": "1",
+        "annotation": "All video links should be monitored to determine availability and accessibility. All links should be monitored each semester to determine if they are still available for use. If not, the instructor should find an equivalent, accessible source and update course materials to reflect this change. This change should also occur in all sections of the course and each semester -in the Master course before course copying occurs."
+      },
+      {
+        "id": "3.4.c",
+        "standard": "The instructor monitors videos and other resources to ensure they are current and up to date.",
+        "essential": false,
+        "points": "1",
+        "annotation": "All videos and resources utilized in the course should reflect the most current research and information aligned with the course description and course content. This will provide students with the most current and research-based content. This includes textbooks, lab manuals, third-party resources, OER resources, videos, audio, articles, links, and all other course content. All course content links should be available and accessible. Content that is no longer available should be replaced and updates made to the Master course and all other sections of the course."
+      },
+      {
+        "id": "3.5",
+        "standard": "Online student hours have been posted. Instructions on accessing online student hours are provided.",
+        "essential": true,
+        "points": "3",
+        "annotation": "The instructor has posted online hours in the course syllabus as well as Instructor Contact Information located in the LMS. Students are given directions and support on how to access the instructor. Students should be provided clear directions and instructions regarding the tool that will be implemented for students to access the online hours. Students have been given the meeting link and support on how to navigate the tool (Zoom, Teams, etc..) Students can be given support on how to implement and use the tool through an instructor-created or tool-supported video. A link with this information should be included on the course menu and/or in a specific area in the course (announcements, etc..). THIS IS A REQUIRED ITEM."
+      },
+      {
+        "id": "4.1",
+        "standard": "The course includes information regarding the accessibility of technology tools.",
+        "essential": true,
+        "points": "3",
+        "annotation": "Each tool's accessibility policy/statement should be included in the course. This can be achieved by including an accessible, weblink to the tools VPat information (as it is aligned to section 508 of the Rehabilitation Act. This is a requirement for all technology tools and support offered in the course. Vpat information for the LMS, videos, publisher content, third-party tools, and other sources is required. The accessibility link (VPat) can be included in a chart where each tool and resource's privacy statement is located. Make sure the course is implementing the most current information (supplied by eLearning) and includes course-specific information that may not be listed. THIS IS A REQUIRED ITEM."
+      },
+      {
+        "id": "4.2.a",
+        "standard": "The course provides multi-modal learning opportunities for diverse learners.",
+        "essential": false,
+        "points": "2",
+        "annotation": "Multimodal learning suggests that when a number of our senses – visual, auditory, and kinaesthetic – are engaged during learning, we understand and remember more. In addition, implementing diverse forms of technology also supports learners in acquiring 21st-century technology skills. Students should be exposed to a variety of instructional supports that are diverse and engaging, supporting interaction and UDL (Universal Design for Learning)."
+      },
+      {
+        "id": "4.2.b",
+        "standard": "The course provides instruction to meet the needs of identified exceptional learners.",
+        "essential": false,
+        "points": "1",
+        "annotation": "Identified, exceptional learners have their learning needs met through the modification of course content, assignments, activities, and assessments. Instructors should be aware of any identified learners in their course as well as the modifications that must be implemented. Instructors should follow these guidelines and requirements to promote student success in the course."
+      },
+      {
+        "id": "4.3.a",
+        "standard": "Text is formatted with headings, lists, and other styles to facilitate readability.",
+        "essential": false,
+        "points": "2",
+        "annotation": "Headings and lists that are included in the course are formatted correctly so the course can be easily read by a screen reader. eLearning will support instructors in correctly creating lists and headers."
+      },
+      {
+        "id": "4.3.b",
+        "standard": "Hyperlink text is descriptive, meaningful, and easy to understand (does not display the URL and avoids using \"click here\"). Hyperlinks are set to open in a new window.",
+        "essential": false,
+        "points": "2",
+        "annotation": "Hyperlinked information should open in a new window and not within the course. This allows students to navigate the course with ease. In addition, the hyperlink is displayed correctly. For example, the student does not see http://www.______________ (the URL). Rather the student sees the content hyperlinked correctly (blue and underlined with the URL included in the hyperlink information). ELearning can assist instructors in creating correct hyperlinks. Students should know information about the hyperlinked information. Example: \"This hyperlinked content will support your understanding of ________ and will assist you in the completion of the __________ assignment.\" OR \"This hyperlinked information will increase your knowledge of _______ and is not linked to a course assessment/assignment.\""
+      },
+      {
+        "id": "4.3.c",
+        "standard": "There is adequate contrast between text and background content. Blinking/flashing text is avoided.",
+        "essential": false,
+        "points": "2",
+        "annotation": "The course should be designed in a manner where there is adequate contrast between the text and background content (this includes color). Having enough contrast between text and the background ensures that learners with moderately low vision, color deficiencies, and reading disabilities can be supported and their needs met. Blinking and flashing text can hinder students with seizure disorders and general processing disorders."
+      },
+      {
+        "id": "4.3.d",
+        "standard": "Instructor-created videos are less than 20 minutes in length or are segmented into chapters.",
+        "essential": false,
+        "points": "2",
+        "annotation": "Instructional videos should be less than 20 minutes or the video should be segmented into chapters to provide students with an opportunity to analyze and internalize the content presented. This supports learner attainment and follows best practices for online learning."
+      },
+      {
+        "id": "4.3.e",
+        "standard": "The course is free of grammatical and spelling errors.",
+        "essential": false,
+        "points": "2",
+        "annotation": "The instructor analyzed and reviewed the course for grammar and spelling errors. None should be present. Utilizing spell check, Grammarly, and other tools will support the instructor in noting and correcting such errors."
+      },
+      {
+        "id": "4.4",
+        "standard": "How to obtain accommodations is clearly stated.",
+        "essential": true,
+        "points": "1",
+        "annotation": "Learners who need accommodations and course modifications should know how to obtain these. This should be clearly outlined in the syllabus and/or course. THIS IS A REQUIRED ITEM."
+      },
+      {
+        "id": "4.5",
+        "standard": "Technologies used to accommodate students with disabilities (use of assistive technologies) are appropriately integrated.",
+        "essential": true,
+        "points": "1",
+        "annotation": "Any type of assistive technology/tool that is required for learner support is correctly integrated and utilized in the course. Instructors should be aware of students requiring such technology support. THIS IS A REQUIRED ITEM."
+      },
+      {
+        "id": "4.6",
+        "standard": "The course contains equivalent alternatives to auditory and visual content (captions, transcripts, alt-text, etc.).",
+        "essential": true,
+        "points": "3",
+        "annotation": "Course content is provided in alternatives that meet the needs of diverse learners. This means that there is not one type of content (visual only). There should be alternatives for visual and auditory content that reflect emerging practices such as interactive transcripts. Images should contain alt-text with clear descriptions of the purpose of that image (unless it is decorative) Example, if there is a photo of a plant cell with diagrams, the alt-text should state what the student should obtain by viewing that image). Videos should be captioned and transcripts included (as needed). THIS IS A REQUIRED ITEM."
+      }
     ]
-}
+  }
